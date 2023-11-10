@@ -4,7 +4,7 @@ It is for studying markdown syntax.
 
 I wanted to write my Intro in 2REBCat repo, but I realized that I didn't know about markdown...😢
 
-(Until now, I don't know how to insert new line. So I type two enter for making new line...🤦‍♂️)
+(Until now, I don't know how to insert new line. So I typed two enter for making new line...🤦‍♂️)
 
 Because of that, I start to study markdown syntax!!
 
