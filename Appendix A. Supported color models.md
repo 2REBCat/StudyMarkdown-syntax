@@ -1,5 +1,6 @@
 # Supported color models
 Display color. You can use hex, RGB or HSL using backticks.
+This is only supported in issues, pull requests, and discussions.
 
 ```
 `#0969da`
